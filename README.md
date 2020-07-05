@@ -1,5 +1,6 @@
 # Face_Recognition_CNN_Model
 Using CNN Model for face recognition.
+Python language.
 
 ## Dataset 
 - Local Faced in the Wild (lfw)
