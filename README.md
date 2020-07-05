@@ -1,5 +1,6 @@
 # Face_Recognition_CNN_Model
 Using CNN Model for face recognition.
+
 Python language.
 
 ## Dataset 
@@ -15,9 +16,9 @@ Python language.
 ## Build CNN Model
 - Using Sequential, Keras model.
 - We build CNN Model with:
-  *4 Conv2D layers, 4 MaxPooling2D layers, 1 Dropout, 1 Flatten and 1 Dense layer.
-  *Activation include Relu and softmax.
-  *Loss function: categorical_crossentropy, optimizer: adam, metrics: accuracy.
+  * 4 Conv2D layers, 4 MaxPooling2D layers, 1 Dropout, 1 Flatten and 1 Dense layer.
+  * Activation include Relu and softmax.
+  * Loss function: categorical_crossentropy, optimizer: adam, metrics: accuracy.
 
 ## Stored
 save_model folder is a place to save the best weights .
