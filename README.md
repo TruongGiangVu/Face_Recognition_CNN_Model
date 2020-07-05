@@ -20,9 +20,6 @@ Python language.
   * Activation include Relu and softmax.
   * Loss function: categorical_crossentropy, optimizer: adam, metrics: accuracy.
 
-## Stored
-save_model folder is a place to save the best weights .
-
 ## Get started
 - Library: numpy, matplotlib, pandas, tensorflow, glob, os, tqdm, time, datetime.
 - Link google colab: https://colab.research.google.com/drive/1aFVXQeK7DSoIFWG4i4Xkxlubzx-4bmAH#scrollTo=2ZVlioBZDYol
